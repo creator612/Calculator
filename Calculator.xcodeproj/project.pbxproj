@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E1663402846CCA300A72260 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E16633F2846CCA300A72260 /* CalculatorBrain.swift */; };
 		6E4D862B284612240013683C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4D862A284612240013683C /* AppDelegate.swift */; };
 		6E4D862D284612240013683C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4D862C284612240013683C /* SceneDelegate.swift */; };
 		6E4D862F284612240013683C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4D862E284612240013683C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6E16633F2846CCA300A72260 /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		6E4D8627284612240013683C /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E4D862A284612240013683C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6E4D862C284612240013683C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				6E4D862A284612240013683C /* AppDelegate.swift */,
 				6E4D862C284612240013683C /* SceneDelegate.swift */,
 				6E4D862E284612240013683C /* ViewController.swift */,
+				6E16633F2846CCA300A72260 /* CalculatorBrain.swift */,
 				6E4D8630284612240013683C /* Main.storyboard */,
 				6E4D8633284612250013683C /* Assets.xcassets */,
 				6E4D8635284612250013683C /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				6E4D862F284612240013683C /* ViewController.swift in Sources */,
 				6E4D862B284612240013683C /* AppDelegate.swift in Sources */,
+				6E1663402846CCA300A72260 /* CalculatorBrain.swift in Sources */,
 				6E4D862D284612240013683C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
